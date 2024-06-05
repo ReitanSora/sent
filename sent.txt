@@ -120,7 +120,7 @@ divertido	3
 divertido	3
 diversões	3
 raiva	-3
-fica	com	raiva	-3
+fica com raiva	-3
 irritado	-3
 angústia	-3
 angustiado	-3
@@ -137,16 +137,16 @@ ansiedade	-2
 ansioso	-2
 apático	-3
 apatia	-3
-merda	de	macaco	-3
+merda de macaco	-3
 apocalíptico	-2
-peça	desculpas	-1
-pediu	desculpas	-1
-pede	desculpas	-1
-pedindo	desculpas	-1
-peça	desculpas	-1
-pediu	desculpas	-1
-pede	desculpas	-1
-pedindo	desculpas	-1
+peça desculpas	-1
+pediu desculpas	-1
+pede desculpas	-1
+pedindo desculpas	-1
+peça desculpas	-1
+pediu desculpas	-1
+pede desculpas	-1
+pedindo desculpas	-1
 desculpe	-1
 horrorizado	-2
 assustador	-2
@@ -154,10 +154,10 @@ apaziguar	2
 apaziguado	2
 apaziguar	2
 apaziguar	2
-bater	palmas	2
+bater palmas	2
 aplaudiu	2
-batendo	palmas	2
-bater	palmas	2
+batendo palmas	2
+bater palmas	2
 aplausos	2
 aprecio	2
 apreciado	2
@@ -219,7 +219,7 @@ desconfortável	-2
 machado	-1
 removido	-1
 apoiado	1
-cópia	de	segurança	2
+cópia de segurança	2
 costas	1
 ruim	-3
 rude	-3
@@ -253,8 +253,8 @@ benefício	2
 benefícios	2
 beneficiado	2
 beneficiando	2
-com	o	coração	partido	-2
-com	o	coração	partido	-2
+com o coração partido	-2
+com o coração partido	-2
 duelos	-2
 duelo	-2
 melhores	3
@@ -285,10 +285,10 @@ felicidade	3
 feliz	3
 alegre	2
 bloco	1
-sucesso	de	bilheteria	3
+sucesso de bilheteria	3
 bloqueado	-1
 bloqueando	-1
--1	blocos
+blocos  -1
 sangrento	-3
 embaçado	-2
 arrogante	-2
@@ -299,7 +299,7 @@ impulso	1
 conduzido	1
 impulsionando	1
 aumenta	1
-diâmetro	interno	-2
+diâmetro interno	-2
 chato	-2
 chato	-3
 perturbar	-2
@@ -310,13 +310,13 @@ boicote	-2
 boicotado	-2
 boicotando	-2
 boicotes	-2
-lavagem	cerebral	-3
+lavagem cerebral	-3
 corajoso	2
 visualização	3
 incrível	5
 suborno	-3
 brilhante	1
-mais	brilhante	2
+mais brilhante	2
 brilhar	1
 brilhante	4
 energético	2
@@ -332,12 +332,12 @@ flutuante	2
 carregar	-2
 sobrecarregado	-2
 carregando	-2
--2	cargas
+cargas  -2
 calma	2
 calma	2
 calmante	2
 calma	2
-Eu	não	aguento	-3
+Eu não aguento	-3
 cancelar	-1
 cancelado	-1
 cancelando	-1
@@ -350,7 +350,7 @@ despreocupado	1
 cuidado	2
 com	cuidado	2
 descuidado	-2
-se	importa	2
+se importa	2
 carregando	-2
 baixo	-2
 catástrofe	-3
@@ -362,7 +362,7 @@ comemorar	3
 comemorando	3
 censurar	-2
 censurado	-2
--2	censores
+censores -2
 verdadeiro	1
 não	gosto	-2
 enojado	-2
@@ -415,16 +415,16 @@ claramente	1
 excluir	1
 inteligente	2
 nublado	-1
-sem	noção	-2
+sem noção	-2
 galo	-5
-filho	da	puta	-5
-filho	da	puta	-5
+filho da puta	-5
+filho da puta	-5
 arrogante	-2
 coagido	-2
 colapso	-2
-entrou	em	colapso	-2
+entrou em colapso	-2
 colapso	-2
-entrando	em	colapso	-2
+entrando em colapso -2
 acidente	-1
 falha	-1
 colidindo	-1
@@ -498,7 +498,7 @@ convencido	1
 convencer	1
 amigável	2
 legal	1
-coisas	interessantes	3
+coisas interessantes	3
 encurralado	-2
 cadáver	-1
 caro	-2
@@ -513,8 +513,8 @@ conforto	2
 cãibra	-1
 merda	-3
 acidente	-2
-mais	louco	-2
-mais	louco	-2
+mais louco	-2
+mais louco	-2
 louco	-2
 criativo	2
 desanimado	-2
@@ -557,7 +557,7 @@ caramba	-4
 perigo	-2
 Demolidor	2
 ousado	2
-mais	escuro	-2
+mais escuro	-2
 escuridão	-1
 destemido	2
 morto	-3
@@ -634,7 +634,7 @@ desejado	2
 ansioso	2
 desespero	-3
 desesperado	-3
-se	desespera	-3
+se desespera	-3
 desesperado	-3
 desesperadamente	-3
 desanimado	-3
@@ -665,9 +665,9 @@ idiota	-3
 terrível	-3
 terrível	-3
 sujeira	-2
-mais	sujo	-2
-mais	sujo	-2
-sujo	-2
+mais sujo	-2
+mais sujo	-2
+sujo -2
 desabilitando	-1
 desvantagem	-2
 desfavorecido	-2
@@ -688,11 +688,11 @@ descartar	-1
 descartado	-1
 descartando	-1
 descarta	-1
-com	o	coração	partido	-2
+com o coração partido	-2
 desgosto	-2
 descontentamento	-2
 discórdia	-2
-com	desconto	-1
+com desconto	-1
 desanimado	-2
 desacreditado	-2
 desdém	-2
@@ -710,7 +710,7 @@ desonesto	-2
 decepcionado	-2
 relutante	-2
 desarticulado	-2
-Eu	não	gosto	disso	-2
+Eu não gosto disso	-2
 triste	-2
 consternado	-2
 desordem	-2
@@ -731,8 +731,8 @@ ignorar	-2
 ignorado	-2
 sem	levar	em	conta	-2
 ignorar	-2
-falta	de	respeito	-2
-falta	de	respeito	-2
+falta de respeito	-2
+falta de respeito	-2
 interromper	-2
 interrupções	-2
 perturbador	-2
@@ -759,9 +759,9 @@ hesitante	-2
 tonto	-1
 esquivando	-2
 duvidoso	-2
-não	funciona	-3
+não funciona	-3
 doloroso	-2
-Eu	não	gosto	disso	-2
+Eu não gosto disso	-2
 fatalidade	-2
 condenado	-2
 dúvida	-1
@@ -789,7 +789,7 @@ caído	-2
 queda	-1
 afogar	-2
 afogado	-2
-se	afoga	-2
+se afoga	-2
 bêbado	-2
 duvidoso	-2
 falha	-2
@@ -806,11 +806,11 @@ ansioso	2
 sério	2
 facilidade	2
 fácil	1
-em	êxtase	4
+em êxtase	4
 assustador	-2
 perturbador	-2
 dinheiro	2
-na	verdade	2
+na verdade	2
 eufórico	3
 júbilo	3
 elegante	2
@@ -833,7 +833,7 @@ estímulo	2
 animação	2
 backup	2
 apoiado	2
-cópia	de	segurança	2
+cópia de segurança	2
 suporta	2
 inimigos	-2
 inimigo	-2
@@ -928,7 +928,7 @@ exuberante	4
 exultante	3
 exultantemente	3
 fabuloso	4
-moda	passageira	-2
+moda passageira	-2
 viado	-3
 viado	-3
 viados	-3
@@ -938,7 +938,7 @@ falhando	-2
 falhar	-2
 falha	-2
 falhas	-2
-de	coração	fraco	-2
+de coração fraco	-2
 justo	2
 fé	1
 fiel	3
@@ -972,15 +972,15 @@ favorito	2
 favoritos	2
 favores	2
 medo	-2
-com	medo	-2
+com medo	-2
 temendo	-2
 corajoso	2
 temível	-2
 farto	-3
 fraco	-2
 sentimento	1
-crimes	graves	-3
-crime	grave	-3
+crimes graves	-3
+crime grave	-3
 fervoroso	2
 fervoroso	2
 festivo	2
@@ -1006,8 +1006,8 @@ tolo	-2
 tolo	-2
 tolos	-2
 forçado	-1
-execução	hipotecária	-2
-execuções	hipotecárias	-2
+execução hipotecária	-2
+execuções hipotecárias	-2
 esqueça	-1
 esquecido	-2
 perdoar	1
@@ -1040,9 +1040,9 @@ frustração	-2
 Ftw	3
 porra	-4
 fodido	-4
-filho	da	puta	-4
+filho da puta	-4
 bastardos	-4
-cara	de	merda	-4
+cara de merda	-4
 bastardo	-4
 porra	-4
 bastardo	-4
@@ -1057,7 +1057,7 @@ divertido	4
 funeral	-1
 funerais	-1
 descolado	2
-mais	engraçado	4
+mais engraçado	4
 engraçado	4
 furioso	-3
 inútil	2
@@ -1110,13 +1110,13 @@ lavagem	verde	-3
 lavagem	verde	-3
 lavagem	verde	-3
 arruela	verde	-3
-arruelas	verdes	-3
+arruelas verdes	-3
 lavagem	verde	-3
 cumprimentar	1
 cumprimentou	1
 saudação	1
 saudações	2
-diga	olá	1
+diga olá	1
 cinza	-1
 penalidade	-2
 afligido	-2
@@ -1141,7 +1141,7 @@ infortúnio	-2
 felicidade	3
 feliz	3
 difícil	-1
-mais	difícil	2
+mais difícil	2
 dificuldade	-2
 difícil	2
 dano	-2
@@ -1151,8 +1151,8 @@ prejudicial	-2
 dano	-2
 assediado	-2
 difícil	-2
-mais	difícil	-2
-mais	difícil	-2
+mais difícil	-2
+mais difícil	-2
 odeio	-3
 odiei	-3
 inimigos	-3
@@ -1165,11 +1165,11 @@ perseguição	-1
 destruição	-2
 saudável	2
 comovente	-3
-com	o	coração	partido	-3
+com o coração partido	-3
 sincero	3
 céu	2
 celestial	4
-coração	pesado	-2
+coração pesado	-2
 inferno	-4
 ajuda	2
 útil	2
@@ -1202,8 +1202,8 @@ vandalismo	-2
 hooligans	-2
 espero	2
 esperançoso	2
-espero	que	2
-sem	esperança	-2
+espero que	2
+sem esperança	-2
 desesperança	-2
 esperanças	2
 esperando	2
@@ -1212,7 +1212,7 @@ horrível	-3
 horrível	-3
 horrorizado	-3
 hostil	-2
-vendedor	ambulante	-2
+vendedor ambulante	-2
 abraço	2
 enorme	1
 abraços	2
@@ -1319,7 +1319,7 @@ inseguro	-2
 insensível	-2
 insensibilidade	-2
 insignificante	-2
-sem	gosto	-2
+sem gosto	-2
 inspiração	2
 inspirador	2
 inspirar	2
@@ -1387,7 +1387,7 @@ jovial	2
 alegria	3
 alegre	3
 felizmente	3
-sem	alegria	-2
+sem alegria	-2
 alegre	3
 exultante	3
 nervoso	-1
@@ -1400,7 +1400,7 @@ morto	-3
 matando	-3
 mata	-3
 tipo	2
-jardim	de	infância	2
+jardim de infância	2
 beijo	2
 parabéns	3
 faltando	-2
@@ -1410,7 +1410,7 @@ retardatário	-2
 atrasado	-2
 atrasos	-2
 coxo	-2
-ponto	de	referência	2
+ponto de referência	2
 risada	1
 riu	1
 rindo	1
@@ -1436,8 +1436,8 @@ mentiu	-2
 salva-vidas	4
 alegre	1
 tipo	2
-eu	gostei	2
-eu	gosto	de	2
+eu gostei	2
+eu gosto de	2
 limitação	-1
 limitado	-1
 limites	-1
@@ -1473,7 +1473,7 @@ adorei	3
 ama	3
 encantador	3
 amando	2
-mais	baixo	-1
+mais baixo	-1
 leal	3
 lealdade	3
 sorte	3
@@ -1503,7 +1503,7 @@ assunto	1
 assunto	1
 maduro	2
 significativo	2
-sem	sentido	-2
+sem sentido	-2
 medalha	3
 mediocridade	-3
 meditativo	1
@@ -1516,26 +1516,26 @@ desordem	-2
 bagunçado	-2
 arruinando	-2
 metódico	2
-sem	sentido	-2
+sem sentido	-2
 milagre	4
 alegria	3
 alegre	3
 felizmente	3
-comportar-se	mal	-2
-comportou-se	mal	-2
-se	comporta	mal	-2
-comportar-se	mal	-2
+comportar-se mal	-2
+comportou-se mal	-2
+se comporta mal	-2
+comportar-se mal	-2
 travessura	-1
 pegadinhas	-1
 miserável	-3
 miséria	-2
 suspeita	-2
 desinformação	-2
-mal	informado	-2
-mal	compreendido	-2
+mal informado	-2
+mal compreendido	-2
 enganoso	-3
 leitura	errada	-1
-relatórios	errados	-2
+relatórios errados	-2
 deturpação	-2
 senhorita	-2
 perdido	-2
@@ -1543,10 +1543,10 @@ faltando	-2
 erro	-2
 errado	-2
 erros	-2
-cometer	um	erro	-2
+cometer um erro	-2
 mal-entendido	-2
 mal-entendido	-2
-entende	mal	-2
+entende mal	-2
 mal-entendido	-2
 gemer	-2
 gemeu	-2
@@ -1561,12 +1561,12 @@ monopolizar	-2
 monopolizado	-2
 monopoliza	-2
 monopolizando	-2
-de	mau	humor	-1
+de mau humor	-1
 deprimido	-1
 deprimido	-1
 idiota	-3
-filho	da	puta	-5
-filho	da	puta	-5
+filho da puta	-5
+filho da puta	-5
 motivar	1
 motivado	2
 motivador	2
@@ -1602,15 +1602,15 @@ legal	3
 engenhoso	2
 preto	-5
 preto	-5
--1
-não	é	divertido	-3
+não	é   -1
+divertido	-3
 nobre	2
 barulhento	-1
 absurdo	-2
 novato	-2
 intrometido	-2
-não	é	bom	-2
-não	funciona	-3
+não é bom	-2
+não funciona	-3
 notório	-2
 romance	2
 entorpecido	-1
@@ -1633,42 +1633,42 @@ ofende	-2
 off-line	-1
 bom	2
 sinistro	3
-uma	vez	na	vida	3
+uma vez na vida	3
 oportunidades	2
 oportunidade	2
 oprimido	-2
 opressivo	-2
 otimismo	2
 otimista	2
-sem	opções	-2
+sem opções	-2
 clamor	-2
 ultrapassou	-2
 indignação	-3
 indignado	-3
 escopo	2
 excelente	5
-muito	feliz	4
+muito feliz	4
 sobrecarga	-1
 esquecido	-1
-reação	exagerada	-2
+reação exagerada	-2
 exagerei	-2
-reação	exagerada	-2
-reage	exageradamente	-2
+reação exagerada	-2
+reage exageradamente	-2
 sobrevendido	-2
 sobrevendido	-2
 sobrevendido	-2
-simplificação	excessiva	-2
-simplificado	demais	-2
-simplifica	demais	-2
-simplificar	demais	-2
+simplificação excessiva	-2
+simplificado demais	-2
+simplifica demais	-2
+simplificar demais	-2
 exagero	-2
 exageros	-2
-excesso	de	peso	-1
+excesso de peso	-1
 oxímoro	-1
 dor	-2
 dolorido	-2
 pânico	-3
-entrei	em	pânico	-3
+entrei em pânico	-3
 pânico	-3
 paraíso	3
 paradoxo	-1
@@ -1685,12 +1685,12 @@ pagar	-1
 paz	2
 Pacífico	2
 pacificamente	2
--2	de	penalidade
+de penalidade   -2
 pensativo	-1
 perfeito	3
 aperfeiçoado	2
 perfeitamente	3
-perfeito	2
+perfeito    2
 perigo	-2
 perjúrio	-3
 perpetrador	-2
@@ -1820,7 +1820,7 @@ racistas	-3
 raiva	-2
 furioso	-2
 chuvoso	-1
-discurso	retórico	-3
+discurso retórico	-3
 ranter	-3
 variadores	-3
 reclamações	-3
@@ -1830,12 +1830,12 @@ sequestro	2
 arrebatado	2
 explosões	2
 animado	4
-erupção	cutânea	-2
+erupção cutânea	-2
 ratificado	2
 alcançar	1
 alcançou	1
 atinge	1
-chegando	a	1
+chegando a	1
 tranquilizar	1
 tranquilizado	1
 tranquilizar	1
@@ -1861,7 +1861,7 @@ rejeitando	-1
 rejeitar	-1
 alegre-se	4
 regozijou-se	4
-se	alegra	4
+se alegra	4
 regozijando-se	4
 relaxado	2
 implacável	-1
@@ -1919,7 +1919,7 @@ rico	2
 ridículo	-3
 plataforma	-1
 manipulado	-1
-direção	correta	3
+direção correta	3
 rigoroso	3
 rigorosamente	3
 motim	-2
@@ -1937,8 +1937,8 @@ helicóptero	4
 roflmao	4
 romance	2
 rotfl	4
-rotflmfao4
-rotflol4
+rotflmfao   4
+rotflol 4
 ruína	-2
 arruinado	-2
 arruinando	-2
@@ -1949,7 +1949,7 @@ entristecer	-2
 entristecido	-2
 infelizmente	-2
 seguro	1
-com	segurança	1
+com segurança	1
 segurança	1
 saída	1
 extravagante	-1
@@ -1962,14 +1962,14 @@ golpes	-2
 escândalo	-3
 escandaloso	-3
 escândalos	-3
-bode	expiatório	-2
-bodes	expiatórios	-2
+bode expiatório	-2
+bodes expiatórios	-2
 susto	-2
 assustado	-2
 assustador	-2
 cético	-2
 repreender	-2
-colher	de	sopa	3
+colher de sopa	3
 desprezo	-2
 desdenhoso	-2
 gritar	-2
@@ -2042,19 +2042,19 @@ corte	-2
 escravidão	-3
 insônia	-2
 escorregadio	2
-mais	habilidoso	2
-mais	sorrateiro	2
+mais habilidoso	2
+mais sorrateiro	2
 lento	-2
 prostituta	-5
 inteligente	1
-mais	inteligente	2
-mais	inteligente	2
+mais inteligente	2
+mais inteligente	2
 esfregaço	-2
 sorria	2
 sorriu	2
 sorri	2
 sorrindo	2
-poluição	atmosférica	-2
+poluição atmosférica	-2
 astúcia	-1
 esnobado	-2
 desprezado	-2
@@ -2071,8 +2071,8 @@ resolvido	1
 resolver	1
 resolvendo	1
 sombrio	-2
-algum	tipo	0
-filho	da	puta	-5
+algum tipo	0
+filho da puta	-5
 acalme-se	3
 calma	3
 calmante	3
@@ -2107,10 +2107,10 @@ estagnação	-2
 resistência	2
 debandada	-2
 assustado	-2
-morrer	de	fome	-2
-morrendo	de	fome	-2
-morrer	de	fome	-2
-morrendo	de	fome	-2
+morrer de fome	-2
+morrendo de fome	-2
+morrer de fome	-2
+morrendo de fome	-2
 empresa	2
 roubar	-2
 roubar	-2
@@ -2145,8 +2145,8 @@ ataque	-1
 atacantes	-2
 golpes	-1
 forte	2
-mais	forte	2
-mais	forte	2
+mais forte	2
+mais forte	2
 acertar	-1
 lutar	-2
 lutou	-2
@@ -2165,20 +2165,20 @@ subversivo	-2
 sucesso	2
 sucesso	3
 chupar	-3
-é	uma	merda	-3
+é uma merda	-3
 sofrer	-2
 sofrimento	-2
 sofre	-2
 suicida	-2
 suicídio	-2
 exigente	-2
-de	mau	humor	-2
+de mau humor	-2
 temperamental	-2
 taciturno	-2
 sol	2
 super	3
 magnífico	5
-2	primeiros
+primeiros   2
 suporte	2
 suportado	2
 apoiador	1
@@ -2243,7 +2243,7 @@ cansado	-2
 peitos	-2
 tolerante	2
 desdentado	-2
-2	primeiros
+primeiros   2
 tapas	2
 rasgado	-2
 tortura	-4
@@ -2291,12 +2291,12 @@ incrível	-1
 incrédulo	-1
 imparcial	2
 incerto	-1
-pouco	claro	-1
+pouco claro	-1
 desconfortável	-2
 despreocupado	-2
-não	confirmado	-1
-não	convencido	-1
-não	creditado	-1
+não confirmado	-1
+não convencido	-1
+não creditado	-1
 indeciso	-1
 subestimar	-1
 subestimado	-1
@@ -2314,34 +2314,34 @@ desigual	-1
 incomparável	2
 antiético	-2
 injusto	-2
-fora	de	foco	-2
-não	cumprido	-2
+fora de foco	-2
+não cumprido	-2
 infeliz	-2
 insalubre	-2
 unificado	1
-não	impressionado	-2
-pouco	inteligente	-2
+não impressionado	-2
+pouco inteligente	-2
 unidos	1
 injusto	-2
 desagradável	-2
-não	amado	-2
+não amado	-2
 incomparável	1
 desmotivado	-2
-pouco	profissional	-2
-não	investigado	-2
+pouco profissional	-2
+não investigado	-2
 insatisfeito	-2
 inseguro	-2
 instável	-1
-pouco	sofisticado	-2
+pouco sofisticado	-2
 instável	-2
 imparável	2
-não	suportado	-2
+não suportado	-2
 inseguro	-1
 impecável	2
 indesejado	-2
 indigno	-2
 irritante	-2
-não	gosta	-2
+não gosta	-2
 irritante	-2
 tenso	-2
 urgente	-1
@@ -2395,7 +2395,7 @@ vulnerável	-2
 ataque	-2
 golpes	-2
 idiota	-3
-eu	quero	1
+eu quero	1
 guerra	-2
 guerra	-2
 quente	1
@@ -2418,9 +2418,9 @@ cansado	-2
 chorar	-2
 chorando	-2
 raro	-2
-bem	vindo	2
-bem	vindo	2
-dá	as	boas-vindas	2
+bem vindo	2
+bem vindo	2
+dá as boas-vindas	2
 caprichoso	1
 cal	-3
 prostituta	-4
@@ -2431,7 +2431,7 @@ ganhe	4
 vencedor	4
 vencendo	4
 ganhe	4
-vencer,	vencer	3
+vencer, vencer	3
 desejo	1
 desejos	1
 desejando	1
